@@ -1,2 +1,2 @@
 # Simon-Game
-Simon Game of Pattern on website
+The Simon Game is an interactive memory game where the computer displays a random sequence of button presses, and the user must repeat the sequence. The game starts with the computer showing one random button. The user must then press that button. In each subsequent round, the computer adds one more button to the sequence, and the user must repeat the entire sequence from the beginning. The challenge increases as the sequence becomes longer and more complex.
